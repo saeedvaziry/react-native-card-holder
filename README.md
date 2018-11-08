@@ -17,4 +17,4 @@ Run android `react-native run-android`
 
 ## License
 
-The Laravel Entity Generator is open-sourced software licensed under the MIT license.
+This repo is open-sourced software licensed under the MIT license.
