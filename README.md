@@ -1,4 +1,6 @@
-# react-native-card-holder
+# React Native Card Holder
+[![StyleCI](https://github.styleci.io/repos/156696810/shield?branch=master)](https://github.styleci.io/repos/156696810)
+
 Simple card holder app with react native
 
 ## Demo
